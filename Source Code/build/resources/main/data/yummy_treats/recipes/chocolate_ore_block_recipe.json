@@ -1,0 +1,42 @@
+{
+  "group": "yummy_treats",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "yummy_treats:chocolate_gem"
+    },
+    "1": {
+      "item": "yummy_treats:chocolate_gem"
+    },
+    "2": {
+      "item": "yummy_treats:chocolate_gem"
+    },
+    "3": {
+      "item": "yummy_treats:chocolate_gem"
+    },
+    "4": {
+      "item": "yummy_treats:chocolate_gem"
+    },
+    "5": {
+      "item": "yummy_treats:chocolate_gem"
+    },
+    "6": {
+      "item": "yummy_treats:chocolate_gem"
+    },
+    "7": {
+      "item": "yummy_treats:chocolate_gem"
+    },
+    "8": {
+      "item": "yummy_treats:chocolate_gem"
+    }
+  },
+  "result": {
+    "item": "yummy_treats:chocolate_ore_block",
+    "count": 1
+  }
+}

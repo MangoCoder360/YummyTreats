@@ -1,0 +1,13 @@
+{
+  "group": "yummy_treats",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "yummy_treats:chocolate_ore_block"
+    }
+  ],
+  "result": {
+    "item": "yummy_treats:chocolate_gem",
+    "count": 9
+  }
+}

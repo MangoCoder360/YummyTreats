@@ -1,0 +1,12 @@
+{
+  "group": "yummy_treats",
+  "type": "minecraft:campfire_cooking",
+  "experience": 5,
+  "cookingtime": 50,
+  "ingredient": {
+    "item": "minecraft:bread"
+  },
+  "result": {
+    "item": "yummy_treats:toast"
+  }
+}

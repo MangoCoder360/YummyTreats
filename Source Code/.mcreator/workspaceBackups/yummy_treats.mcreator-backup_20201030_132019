@@ -1,0 +1,153 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Toast",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toast"
+    },
+    {
+      "name": "Toastrecipie",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toastrecipie"
+    },
+    {
+      "name": "ChocolateBlock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_block"
+    },
+    {
+      "name": "ChocolatePickaxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_pickaxe"
+    },
+    {
+      "name": "ChocolateAxe",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_axe"
+    },
+    {
+      "name": "ChocolateSword",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_sword"
+    },
+    {
+      "name": "ChocolateShovel",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_shovel"
+    },
+    {
+      "name": "ChocolateHoe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_hoe"
+    },
+    {
+      "name": "ChocolatePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_pickaxe_recipe"
+    },
+    {
+      "name": "ChocolateAxeRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_axe_recipe"
+    },
+    {
+      "name": "ChocolateSwordRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_sword_recipe"
+    },
+    {
+      "name": "ChocolateShovelRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_shovel_recipe"
+    },
+    {
+      "name": "ChocolateHoeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_hoe_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.yummy_treats.chocolate_pickaxe": "Chocolate Pickaxe",
+      "item.yummy_treats.toast": "Toast",
+      "item.yummy_treats.chocolate_shovel": "Chocolate Shovel",
+      "item.yummy_treats.chocolate_axe": "Chocolate Axe",
+      "block.yummy_treats.chocolate_block": "Chocolate Block",
+      "item.yummy_treats.chocolate_sword": "Chocolate Sword",
+      "item.yummy_treats.chocolate_hoe": "Chocolate Hoe"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "yummy_treats",
+    "modName": "Yummy Treats",
+    "version": "1.0.0",
+    "author": "MangoCoder360",
+    "websiteURL": "www.github.com/mangocoder360",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Copyrights 2020 Reuben Schiopu",
+    "modElementsPackage": "com.mangocoder.yummytreats",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

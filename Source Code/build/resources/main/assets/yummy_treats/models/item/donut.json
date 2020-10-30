@@ -1,0 +1,8 @@
+{
+  "parent": "yummy_treats:custom/mod.donut",
+  "textures": {
+    "0": "yummy_treats:blocks/inside-texture",
+    "missing": "yummy_treats:blocks/",
+    "particle": "yummy_treats:items/donuttexture"
+  }
+}

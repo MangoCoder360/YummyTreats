@@ -1,0 +1,24 @@
+{
+  "group": "yummy_treats",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "yummy_treats:chocolate_gem"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "yummy_treats:chocolate_shovel",
+    "count": 1
+  }
+}

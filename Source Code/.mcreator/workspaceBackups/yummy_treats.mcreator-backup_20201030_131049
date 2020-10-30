@@ -1,0 +1,48 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Toast",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toast"
+    },
+    {
+      "name": "Toastrecipie",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toastrecipie"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.yummy_treats.toast": "Toast"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "yummy_treats",
+    "modName": "Yummy Treats",
+    "version": "1.0.0",
+    "author": "MangoCoder360",
+    "websiteURL": "www.github.com/mangocoder360",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Copyrights 2020 Reuben Schiopu",
+    "modElementsPackage": "com.mangocoder.yummytreats",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

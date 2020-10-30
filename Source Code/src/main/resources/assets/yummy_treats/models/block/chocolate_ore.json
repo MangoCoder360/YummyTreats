@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "yummy_treats:blocks/chocolate_ore",
+    "particle": "yummy_treats:blocks/chocolate_ore"
+  }
+}
