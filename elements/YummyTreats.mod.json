@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "Yummy Treats",
+    "icon": {
+      "value": "CUSTOM:RealWaffle"
+    },
+    "showSearch": false
+  }
+}

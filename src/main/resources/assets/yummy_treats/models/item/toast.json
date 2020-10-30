@@ -1,0 +1,9 @@
+{
+  "parent": "yummy_treats:custom/toast",
+  "textures": {
+    "0": "yummy_treats:blocks/outline-texture",
+    "1": "yummy_treats:blocks/inside-texture",
+    "missing": "yummy_treats:blocks/",
+    "particle": "yummy_treats:items/toastitem"
+  }
+}
